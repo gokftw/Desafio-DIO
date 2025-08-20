@@ -1,5 +1,5 @@
 // Variáveis
-let nomeHeroi = "Artemis";
+let nomeHeroi = "Arkantos";
 let xpHeroi = 7320;
 let nivel = "";
 
